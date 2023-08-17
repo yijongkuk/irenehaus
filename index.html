@@ -195,7 +195,8 @@
       <p class="timeLists" id="anchor06">AD 20C - 1</p>
       <p class="timeLists" id="anchor07">AD 20C - 2</p>
       <p class="timeLists" id="anchor08">JK - 1</p>
-      <p class="timeLists" id="anchor09">JK - 2</p>
+      <p class="timeLists" id="anchor09">JK - 2a</p>
+      <p class="timeLists" id="anchor10">JK - 2b</p>
     </div>
     <a href="javascript:void(0)" class="closebtn" id="timeClose" onclick="closeTime()"><span
         class="material-symbols-outlined">close</span></a>
@@ -12907,6 +12908,16 @@
     $("#anchor09").click(function () {
       $('html, body').animate({
         scrollTop: $('#jk014').offset().top
+      });
+    });
+  });
+</script>
+
+<script>
+  $(document).ready(function () {
+    $("#anchor10").click(function () {
+      $('html, body').animate({
+        scrollTop: $('#jk023').offset().top
       });
     });
   });
