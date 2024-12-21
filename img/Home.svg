@@ -1,0 +1,8 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Home">
+<rect width="1080" height="1920" fill="white"/>
+<rect id="tab" x="119" y="185" width="216" height="113" fill="#D9D9D9"/>
+<rect id="image" x="119" y="598" width="799" height="460" fill="#D9D9D9"/>
+<rect id="text" x="119" y="1152" width="799" height="460" fill="#D9D9D9"/>
+</g>
+</svg>
